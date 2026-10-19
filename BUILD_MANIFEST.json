@@ -2,6 +2,7 @@
   "tool": "cangjie-tools v2.5.0",
   "published_hashes": {
     "LICENSE": "664951bed1d38ad7a32662fe4fe3bb8439e8b9c2669b7ad2e8c8d1db3ef04659",
+    "README.md": "139880161cb151118692407c2b790b8a1cf1a1e58026970334e912acd9fcda1c",
     "SKILL.md": "5e9db3d75948187eb40c7685b075394bf6c1f6b49d1d38a283ce23e80e51f578",
     "install.sh": "caca869d3f0af1fd722377bff2fe8f1d9ee0e09ab73bafc0eebd43c165efb0f5",
     "references/capabilities/decision-landing.md": "d6d87f1e41753cd71f5b02bc931f233f0811be2150059c0653163bad1263928f",
@@ -27,11 +28,11 @@
     "references/glossary.md": "a75f161ed90840b99ad77c6ed1075cd9e341cb994a3e3f13527d0ed9e6651a5b",
     "references/overview.md": "923ce3af1188c8df90f71890ca76967d4b6fc81070057f12544a6143eff51fd9"
   },
-  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖 | 2026-10-19 发布补齐 LICENSE/install.sh 后重封印(前序编译批次: run-20261019-170849-86ac52)",
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖 | 2026-10-19 发布补齐 LICENSE/install.sh 后重封印(前序编译批次: run-20261019-170849-86ac52) | 2026-10-19 补 README 后重封印(前序: reseal-20261019-44b9ff73)",
   "bundle_id": "bundle.yujun-product-methodology",
   "bundle_sha256": "b349264612c729012cf4a1baba8791b3f2420b73d86474ef08d91dbb41dc24a8",
   "variant": "single",
-  "run_id": "reseal-20261019-44b9ff73",
+  "run_id": "reseal-20261019-a8e82a95",
   "decision": {
     "schema_version": 1,
     "requested": "auto",
