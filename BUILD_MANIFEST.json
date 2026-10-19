@@ -1,0 +1,50 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "LICENSE": "664951bed1d38ad7a32662fe4fe3bb8439e8b9c2669b7ad2e8c8d1db3ef04659",
+    "SKILL.md": "5e9db3d75948187eb40c7685b075394bf6c1f6b49d1d38a283ce23e80e51f578",
+    "install.sh": "caca869d3f0af1fd722377bff2fe8f1d9ee0e09ab73bafc0eebd43c165efb0f5",
+    "references/capabilities/decision-landing.md": "d6d87f1e41753cd71f5b02bc931f233f0811be2150059c0653163bad1263928f",
+    "references/capabilities/decision-method-selection.md": "16ab304447648217b25e72d951c6ce6b3206edced396a52fca294841dfe5cc06",
+    "references/capabilities/dispute-liability-spring.md": "95c8789605dccf4987493694218070af5cbb9f7cc1fe76da74ab239b07209736",
+    "references/capabilities/enterprise-analysis.md": "8c7ef86d2720ee2722167e143caf3e52538cb69600cc5b6d73ef2e44cdf92f88",
+    "references/capabilities/marginal-analysis.md": "a72e61f7445348cb19dc0a9b4c0b3722b07e9520f3656815a936b62d602a86c8",
+    "references/capabilities/pm-growth-path.md": "97b59ee9e9a6c6b9d414a66698f6ed6d5b32b244f1854d443852d992a14dae79",
+    "references/capabilities/pm-hiring.md": "1bd7da1f11367a90b3dae3596f333144d37432eb6b71be0baadcbabc34e91425",
+    "references/capabilities/pm-value-formula.md": "b2ac1a1d13328cfdc1e9e5b1a7755a3edd4e82ec456843706f96cf464246184f",
+    "references/capabilities/product-value-judgment.md": "bec4dcb59eab9a2de6f0e1a96e0bcea1dd123181fe7d281e9c13afdde00a43f4",
+    "references/capabilities/rational-decision.md": "8057b441e29f10cc6428457c36fa279a64b8f2b823f2fef12d803a0c737f6099",
+    "references/capabilities/relative-price-growth.md": "f5f607fbf571490a14e62b7bc4190b452b5a8f02984edda0ce027d3266e99dc2",
+    "references/capabilities/trade-off-decision-process.md": "977c5b82558ce0aa4449f651750f1fd0cb77b8b3383287ad6887b83e7a547428",
+    "references/capabilities/transaction-model-design.md": "dcf3c06699ed8d5d55c2df0554933f8519a3e5b5bee7451c7286170bc06cef2d",
+    "references/capabilities/user-behavior-mechanism.md": "84323a85b7372ba6f5f901131a3c1efbed150e0c39e02355be1fe01fe5ca03ed",
+    "references/capabilities/user-model-accumulation.md": "1aa90e3fb35128ac56c4c16adcf40786fac6333da5d8c0c533b993912d7bf116",
+    "references/capabilities/user-value-formula.md": "abeae7250f5411d624eca0fa2130a55a3bb021f411d6ef1658cd3bda207b224e",
+    "references/capabilities/utility-four-types.md": "630dec77ea5e36924f46c1496007529067b7fde7694bee4126d5c6e7f9c0ffcc",
+    "references/capabilities/yujun-twelve-principles.md": "3db9c3e904b8dd0aa2a9e8f45917614afd5a60c0128ef6efb9ab1e22ad98fcad",
+    "references/capability-index.md": "0027afd3181b7d08163f06d755f8059ffd2f8ad75fc067256e25a1b8af912544",
+    "references/cheatsheet.md": "37188e9cf20b9c7faa375a914c7673433902ca4c91e15aaf3d2996aacabdaedb",
+    "references/glossary.md": "a75f161ed90840b99ad77c6ed1075cd9e341cb994a3e3f13527d0ed9e6651a5b",
+    "references/overview.md": "923ce3af1188c8df90f71890ca76967d4b6fc81070057f12544a6143eff51fd9"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖 | 2026-10-19 发布补齐 LICENSE/install.sh 后重封印(前序编译批次: run-20261019-170849-86ac52)",
+  "bundle_id": "bundle.yujun-product-methodology",
+  "bundle_sha256": "b349264612c729012cf4a1baba8791b3f2420b73d86474ef08d91dbb41dc24a8",
+  "variant": "single",
+  "run_id": "reseal-20261019-44b9ff73",
+  "decision": {
+    "schema_version": 1,
+    "requested": "auto",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 7,
+    "capability_count": 18,
+    "reasons": [
+      "7 个能力通过晋级门，但触发验证阈值为 TBD-after-baseline 尚未启用；按 single-first 原则先推荐 single，拆分由使用证据驱动"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 7 个晋级 Skill，共 8 个可发现入口）",
+    "user_confirmed": false,
+    "preserve_strategy_on_update": true
+  }
+}
