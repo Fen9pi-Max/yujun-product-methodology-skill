@@ -3,7 +3,7 @@
   "published_hashes": {
     "LICENSE": "664951bed1d38ad7a32662fe4fe3bb8439e8b9c2669b7ad2e8c8d1db3ef04659",
     "README.md": "c762f6e861e03adb2ccce93d2ab6614df33e9f96b4e87ceeebe0ec9c2ceb3e28",
-    "SKILL.md": "683833e54ce554d7e34f0a9a3e57396155ebcda44cbe82bbad474f2fd5607d0a",
+    "SKILL.md": "a8f4876cb5a5159b79a247e4508579b2c96277f0fb0124e49c126807427d4415",
     "install.sh": "caca869d3f0af1fd722377bff2fe8f1d9ee0e09ab73bafc0eebd43c165efb0f5",
     "references/capabilities/decision-landing.md": "3435d01c3dfdc7c5c947586b3f90edc266c8df421ed62d8d3108d698014cc177",
     "references/capabilities/decision-method-selection.md": "d30fb52fc954fd40426c30290a724c16538eb2e73aa74c0b953ce0d84e614cd8",
@@ -28,11 +28,11 @@
     "references/glossary.md": "a75f161ed90840b99ad77c6ed1075cd9e341cb994a3e3f13527d0ed9e6651a5b",
     "references/overview.md": "923ce3af1188c8df90f71890ca76967d4b6fc81070057f12544a6143eff51fd9"
   },
-  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖 | 2026-10-20 AI 产品化适配:18 卡 A2/E/B 扩展 + 50 关键词 + 入口触发语,重编译后重封印(前序: run-20261020-211159-7ccfff)",
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖 | 入口 description 残渣修复后重封印(前序: run-20261021-092515-aea71b)",
   "bundle_id": "bundle.yujun-product-methodology",
-  "bundle_sha256": "0c2dabeacc0d02d44123915cda7a9d40b208f79f64111d7d96ed8a44ca1f0a12",
+  "bundle_sha256": "a2befee3970a6fcdd54167e30473c6d9e101003c7e491047c4b21d9df9d0b04b",
   "variant": "single",
-  "run_id": "reseal-20261020-59dc2877",
+  "run_id": "reseal-d13a174a",
   "decision": {
     "schema_version": 1,
     "requested": "auto",
